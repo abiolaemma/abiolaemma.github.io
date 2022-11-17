@@ -1,0 +1,66 @@
+
+   .bluebox{
+
+   border: 3px solid blue;
+   height: 950px;
+   
+}
+.smallbox{
+   border: 2px solid rgb(255, 0, 34);
+   height: px;
+   margin: 0.5em;
+   margin-top: -1%;
+   
+}
+
+.faintline{
+   border: 2px solid rgb(218, 212, 212);
+   height: 50px;
+   width: 25em;
+   margin: .5em;
+   margin-top: 0%;
+}
+img{
+   margin: 0.5em;
+   margin-top: -3%;
+}
+.assignmentbox{
+   border: 2px solid rgb(218, 212, 212);
+   height: 250px;
+   width: 25em;
+   margin: .5em;
+   margin-top: -3%;
+   overflow-y: scroll;
+}
+.box{
+   padding: 9px;
+   width: 40%;
+   height: 20%;
+   margin: 3%;
+   /* margin-top: -2%; */
+   text-align: center;
+   display:inline-flex;
+      }
+.resize{
+   height: 40%;
+   width: 40%;
+
+}
+.image2resize{
+height: 10%;
+width: 40%;
+border: solid red;
+margin: 0;
+margin-left: 2em;
+margin-top: 4em;
+}
+
+.image1resize{
+   height: 10%;
+   width: 40%;
+   border: solid red;
+   margin: 0;
+   margin-left: 2em;
+   margin-top: 4em;
+   
+}
